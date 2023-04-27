@@ -75,3 +75,16 @@ We learned a lot from this course, including basic full stack knowledge. How fro
 How to test it
 - You can run the whole project on your local side.
 
+firstly, you should install the environment in your local machine, like this picture: firstly, the node.js, the first picture in the img file, and the second one is to install mysql database, and create the travel database, the second picture in the img file, the third one is to install the java IDE IDEA to run the springboot. the edition is 2021.3.3,like the third picture.
+
+firstly , you should run the redis database, like the fourth picture in the img fold:
+
+secondly, you should run the itfxq_travel_parent folder in the IDEA, like the fifth picture in the img fold:
+
+finally, you should enter into the itfxq_travel_admin fold to run the admin system on your local host, like the sixth picture in the img fold:
+
+then enter into the itfxq_travel_web to run the front-end page on your local host, like the seventh picture in the img fold:
+
+the final page is the eighth picture and ninth picture.
+
+the user account is admin, the password is 123456.
