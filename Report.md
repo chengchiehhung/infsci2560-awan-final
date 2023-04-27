@@ -10,7 +10,7 @@
 
 - Name: Tourist Attractions website
 - GitHub: https://github.com/chengchiehhung/infsci2560-awan-final
-- Description: The Sichuan Attractions Service is a web-based system that provides information on various attractions in Sichuan, China. The system is designed to allow users to browse different attractions, view their details and reviews, and plan their visits. The system consists of a database to store the attraction's data and a set of backend APIs to provide access to the data. Taipei Attractions Service with a database and backend APIs is a particularly meaningful and valuable resource for travelers who are interested in exploring Sichuan. Sichuan is a vibrant and dynamic city with a rich history and culture, and there are countless attractions to see and experience. There is also a login system to enable users to keep their favorite attractions or post new attractions they found.
+- Description: The Sichuan Attractions Service is a web-based system that provides information on various attractions in Sichuan, China. The system is designed to allow users to browse different attractions, view their details and reviews, and plan their visits. The system consists of a database to store the attraction's data and a set of backend APIs to provide access to the data. Sichuan Attractions Service with a database and backend APIs is a particularly meaningful and valuable resource for travelers who are interested in exploring Sichuan. Sichuan is a vibrant and dynamic city with a rich history and culture, and there are countless attractions to see and experience. There is also a login system to enable users to keep their favorite attractions or post new attractions they found.
 
 ## Objective
 
