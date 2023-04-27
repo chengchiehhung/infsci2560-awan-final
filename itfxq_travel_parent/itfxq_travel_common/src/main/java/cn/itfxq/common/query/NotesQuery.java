@@ -4,8 +4,8 @@ import lombok.Data;
 
 /**
  * @description:
- * @author: soulcoder 灵魂码仔
- * @email: 2579692606@qq.com
+ * @author: awan-group 
+ * @email: ZHQ27@pitt.edu
  * @date: created by 10/30 9:41
  * @copyright: itxfq 项目分享圈
  */

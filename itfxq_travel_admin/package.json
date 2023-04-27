@@ -2,7 +2,7 @@
   "name": "mz-admin",
   "version": "1.0.0",
   "description": "mz-vue-template",
-  "author": "2579692606@qq.com",
+  "author": "ZHQ27@pitt.edu",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

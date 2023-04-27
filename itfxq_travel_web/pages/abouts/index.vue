@@ -22,7 +22,7 @@
   </el-collapse-item>
   <el-collapse-item  title="商务合作" name="3">
     <div >合作联系人：Marker</div>
-    <div >联系邮箱：2579692606@qq.com</div>
+    <div >联系邮箱：ZHQ27@pitt.edu</div>
     <div >联系QQ：2579692606</div>
   </el-collapse-item>
 
@@ -30,7 +30,7 @@
       <div >java工程师</div>
       <div >前端工程师</div>
       <div >UI工程师</div>
-      <div >发送QQ邮箱：2579692606@qq.com</div>
+      <div >发送QQ邮箱：ZHQ27@pitt.edu</div>
     </el-collapse-item>
 
 
