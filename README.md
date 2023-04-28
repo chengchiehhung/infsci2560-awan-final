@@ -1,5 +1,3 @@
-# infsci2560-awan-final
-
 # Introduction
 
 ## Members
